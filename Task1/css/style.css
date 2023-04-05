@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0 ;
+    border: 0;
+    box-sizing: content-box;
+  }
+  img{
+    width: 500px;
+    height: 300px;
+    border: 2em solid yellow;
+    padding: 20px;
+   margin: 0 auto ;
+   margin-top: 7ex;
+   outline: 2em solid hsla(28, 96%, 45%, 0.8);
+   display: flex;
+   background: linear-gradient(lightskyblue,lightskyblue) content-box, linear-gradient(green, green) padding-box;
+   position: relative;
+  }
